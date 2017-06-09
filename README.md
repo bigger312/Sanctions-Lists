@@ -15,7 +15,8 @@ FBI Top Ten Most Wanted	https://www.fbi.gov/wanted/topten	html
 FBI Top Ten Most Wanted CYBER	https://www.fbi.gov/wanted/cyber	html
 ICE List (U.S. Immigrations and Customs Enforcement)	https://www.ice.gov/most-wanted	html
 
-European		
+European
+
 Her Majesty’s (HM) Treasury List	https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets	XML
 UK email alerts	https://public.govdelivery.com/accounts/UKHMTREAS/subscriber/new	XML
 Eurpol	https://www.europol.europa.eu/publications-documents	
@@ -30,7 +31,8 @@ OCC Shell Bank List	https://www.occ.gov/news-issuances/bulletins/2002/bulletin-2
 	https://www.occ.gov/tools-forms/index-tools-forms.html	
 EU Most wanted	https://eumostwanted.eu/	
 		
-Rest of World		
+Rest of World	
+
 World Bank Debarred Parties List		
 CBI List (The Central Bureau of Investigation) India	http://cbi.nic.in/	
 SECO List (Swiss)	https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos.html	XML
