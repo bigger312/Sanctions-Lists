@@ -1,7 +1,7 @@
 # Sanctions-Lists
 List of Sanctions and Most wanted
 
-Please add to this resource 
+Open Source Respository/ Database for International Sanctions list.
 
 		
 USA		
